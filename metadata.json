@@ -1,0 +1,14 @@
+{
+    "model_name": "XGBoost_Optimized",
+    "training_date": "2026-02-17 17:20:51",
+    "metrics": {
+        "f1_score_macro": 0.9906535350684155,
+        "accuracy": 0.9906247222962765,
+        "precision": 0.9906590774524511,
+        "recall": 0.990649474769161
+    },
+    "dataset_info": {
+        "train_samples": 720192,
+        "test_samples": 180048
+    }
+}
