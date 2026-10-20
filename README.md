@@ -125,3 +125,5 @@ python -m api.main
 * **Data Science:** Pandas, NumPy, Scikit-Learn, XGBoost
 * **Serialization:** Joblib (Models/Scalers) & JSON (Mappings/Metadata)
 * **Visualization:** Seaborn, Matplotlib, and Rich (CLI)
+
+Download the project files from the repository and extract the ZIP archive to access the source code and project resources.
